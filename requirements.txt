@@ -1,0 +1,9 @@
+PySide6>=6.7,<7
+psutil>=5.9,<8
+pytest>=8,<9
+
+# Webcam capture (optional feature)
+opencv-python>=4.9,<5
+# Captura de tela opcional (instale se esse recurso estiver habilitado)
+pyautogui>=0.9.54
+Pillow>=10.0
